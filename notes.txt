@@ -12,3 +12,8 @@ Sample Contract:
     * The supplemental internet is 100 MB service just for the
       conference to supplement the 100 MB service the hotel has for
       all guests and functions
+
+Estimated Cost Sheet:
+  * flock estimates.xlsx
+    * Apologies for the format
+    * Beginning of a rough estimate assuming no cost changes and lowest price items
