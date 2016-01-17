@@ -1,0 +1,6 @@
+To Do:
+
+Followup with Hotel:
+ 1. Booking code/method
+ 2. Differential if we split Panteon?
+ 3. Update contract to note AV and fix 60 room night issue

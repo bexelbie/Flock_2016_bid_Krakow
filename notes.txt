@@ -1,0 +1,14 @@
+In the supplemental_docs directory, you will find:
+
+F&B Menus:
+  * Coffee_breaks_2016_BEST_WESTERN_PREMIER_Krakow_Hotel.pdf
+  * Lunches_suppers_buffets_2016_BEST_WESTERN_PREMIER_Krakow_Hotel.pdf
+
+Sample Contract:
+  * sample contract.pdf
+    * Read this for payment terms only as the sleeping room night
+      count is being changed as is the split on the meeting rooms.
+    * Needs notes for included AV
+    * The supplemental internet is 100 MB service just for the
+      conference to supplement the 100 MB service the hotel has for
+      all guests and functions

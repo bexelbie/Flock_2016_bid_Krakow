@@ -1,116 +1,356 @@
-This is a proposal that Flock 2016 be held in Krakow, Poland
+This is a proposal for Flock 2016 to be held in Krakow, Poland
 
-== Staff ==
+Tuesday 2 August - Friday 5 August (Weekend dates are under discussion
+as well)
 
-* Brian Exelbierd (bex@pobox.com)
-* Dominika Bula
+= The city =
 
-Interested in helping? Contact Brian
+The city of [https://en.wikipedia.org/wiki/Kraków Krakow] is the
+second largest city of Poland and is the country's former capital.
+It is sometimes spelled as Cracow in English although its correct
+English name is Krakow nowadays. Krakow is the top tourist destination
+in Poland. The city basks in the glory of its long history and it
+greatly treasures its reputation as the culture capital of Poland.
 
-== The city ==
+Krakow's seven universities plus almost twenty other institutions
+of higher education make it the country’s leading center of science
+and education. The city's expanding service sector is the lifeblood
+of local economy but varied industry and production still provide
+substantial proportions of jobs and wealth. Krakow is the metropolis
+of southern Poland and the capital city of the Malopolska Province.
+The city has about 755,000 permanent residents and the Krakow
+conurbation totals some 1.5 million people. The cosmopolitan
+atmosphere of the city center may be somewhat misleading. Despite
+recent growth in the number of immigrants and expatriates, inhabitants
+of Krakow remain ethnically almost homogeneous and they proudly
+declare their Polish nationality.
 
-The city of [https://en.wikipedia.org/wiki/Kraków Krakow] is the second largest city of Poland and is the country's ancient capital. It is sometimes spelled as Cracow in English although its correct English name is Krakow nowadays. Krakow is the top tourist destination in Poland. The city basks in the glory of its long history and it greatly treasures its reputation as the culture capital of Poland. 
+Geographic coordinates of downtown Krakow are 50°04'N 19°56'E. The
+city lies in southern Poland on the banks of Wisla (Vistula) river.
 
-Krakow's seven universities plus almost twenty other institutions of higher education make it the country’s leading center of science and education. The city's expanding service sector is the lifeblood of local economy but varied industry and production still provide substantial proportions of jobs and wealth. Krakow is the metropolis of southern Poland and the capital city of the Malopolska Province. The city has about 755,000 permanent residents and the Krakow conurbation totals some 1.5 million people. The cosmopolitan atmosphere of the city center may be somewhat misleading. Despite recent growth in the number of immigrants and expatriates, inhabitants of Krakow remain ethnically almost homogeneous and they proudly declare their Polish nationality. 
-
-Geographic coordinates of downtown Krakow are 50°04'N 19°56'E. The city lies in southern Poland on the banks of Wisla (Vistula) river. 
-
-=== Currency ===
+== Currency ==
 
 Poland uses the Polish Zloty (PLN)
 
 Currency Value as of 17 December 2015 (xe.com)
 
-1 PLN = 0.25 USD
+1 PLN = 0.25 USD<br />
 1 USD = 3.92 PLN
 
-1 PLN = 0.23 EUR
+1 PLN = 0.23 EUR<br />
 1 EUR = 4.29 PLN
 
-=== Airports ===
+Note: Beginning 16 January the Polish Zloty experienced a decline
+in value.  It remains to be seen if this is a short-term blip or
+something that will last longer
 
-The Krakow airport - IATA code KRK, ICAO code EPKK - is situated conveniently on the Balice outskirts of the city, just 15 km (about ten miles) west from its center, by the A4 expressway to Silesia province en route to Germany.  Krakow's Balice international airport is Poland’s second busiest after Warsaw, Poland's capital city.  The airport is easily accessible by direct train from the city center at a cost of 8 PLN and takes 17 minutes and includes wifi and power onboard.  A taxi from the Airport to the Hotel is about 75 PLN.
+Currency Value as of 17 January 2016 (xe.com)
 
-Estimated costs of flights from…
+1 PLN = 0.24 USD<br />
+1 USD = 4.12 PLN
 
-<pre>
-BOS $900-1300 Swiss/Lufthansa(1 Stop/ 2 stops)
-RDU $1400(2 Stops JFK,WAW; Lot Polish Airlines) 
-BOM $780-1400 (1-2 stops)
-CDG $160-250 (direct Easy Jet)
-PRG $200 (1 stops/ via Vienna) or 725 CZK one-way [https://www.cd.cz/en/mezinarodni-cestovani/specialni-nabidky/cd-bus-krakov/-23251/ Train]
-BRQ 520 CZK one-way train (or about 3.25 hours drive)
-VIE $200 (direct)
-</pre>
+1 PLN = 0.22 EUR<br />
+1 EUR = 4.49 PLN
 
-=== Transportation ===
+== Airports ==
 
-Krakow’s municipal transport company, known in the city under its acronym MPK maintains 137 day bus lines totaling about 650 kilometers & 27 tram lines that consist of some 84 kilometers of double tramways. Trams in Krakow don’t run at night (roughly midnight to 5 a.m.)  Eight night bus lines that cover nearly 130 kilometers constitute Krakow’s night public transport.
- 
+The Krakow airport - IATA code KRK, ICAO code EPKK - is situated
+conveniently on the Balice outskirts of the city, just 15 km (about
+ten miles) west of the city center. It is on the A4 expressway to
+Silesia province and Germany.  Krakow's Balice international airport
+is Poland’s second busiest after Warsaw, Poland's capital city.
+The airport is easily accessible by direct train from the city
+center at a cost of 8 PLN and takes 17 minutes and includes wifi
+and power onboard.
+
+Estimated costs of flights from … (via kayak.com on 17 December 2015)
+
+* BOS $900-1300 Swiss/Lufthansa(1 Stop/ 2 stops)
+* RDU $1400(2 Stops JFK,WAW; Lot Polish Airlines) 
+* BOM $780-1400 (1-2 stops)
+* CDG $160-250 (direct Easy Jet)
+* PRG $200 (1 stop via Vienna) (Better to go by bus/train or car)
+* BRQ (Better to go by bus/train or car)
+* VIE $200 (direct)
+
+== Intercity Trains and Buses  ==
+
+Trains and Buses arrive at a pair of terminals located near the
+city center.  The stations are located side by side and are next
+to Galeria Krakowska, a world class shopping mail that includes
+restaurants, coffee houses, cafes and a Carrefour Express grocery
+store.
+
+The Bus Station is named Malopolski Dworzec Autobusowy (MDA).  If
+you are taking the Leo Express Bus from Bohumin, Czech Republic it
+is the stop in Krakow called "Kraków, Bosacka (PKS)."
+
+The Train Station is named Krakow Glowny.
+
+The local transportation hub is situated under train station and
+outside of the Galeria.
+
+Estimated costs from …
+
+* PRG 725 CZK one-way [https://www.cd.cz/en/mezinarodni-cestovani/specialni-nabidky/cd-bus-krakov/-23251/ Ceske Drahy] or [http://www.le.cz/ Leo Express]
+* BRQ 520 CZK one-way [https://www.cd.cz Ceske Drahy] to Bohumin, Czech Republic + [http://www.le.cz Leo Express] to Krakow or [http://www.studentagency.eu Student Agency ]
+
+== Local Transportation ==
+
+Krakow’s municipal transport company, known in the city under its
+acronym MPK maintains 137 day bus lines totaling about 650 kilometers
+& 27 tram lines that consist of some 84 kilometers of double tramways.
+Trams in Krakow don’t run at night (roughly midnight to 5 a.m.)
+Eight night bus lines that cover nearly 130 kilometers constitute
+Krakow’s night public transport.
+
 Tickets Prices:
 
-1 way ticket - 3.80 PLN
-2 way ticket -  7.20 PLN
-24h ticket - 15 PLN
-48h ticket - 24 PLN
-72 h ticket - 36 PLN
-7 - day ticket 48 PLN
+* 1 way ticket (20 min ticket) - 2.80 PLN
+* 1 way ticket (40 min ticket) - 3.80 PLN
+* 2 way ticket (20 min ticket) - 5.20 PLN
+* 24h ticket - 15 PLN
+* 48h ticket - 24 PLN
+* 72h ticket - 36 PLN
+* 7 - day ticket 48 PLN
 
-=== Lodging and Event Locations ===
+Do not forget to validate your ticket once you are on-board by
+sticking it into the yellow validation boxes located throughout the
+vehicle.  Tickets are not always inspected, however you are subject
+to random inspection.  You must present a valid and validated ticket
+to a ticket inspector upon request.  Ticket inspectors have badges
+or other identification and speak English.
 
-''Bids and selections are in process - below is preliminary''
+= Event Location =
 
-Hotel Best Western Premier Kraków; on Opolska 14a street  is located outside the city centre in a quiet location with a good car park. Being out of the city does not create a problem and in fact is a plus if you are visiting further afield.  There is a regular, cheap and reliable bus service only 10 minutes walk away and the hotel staff will point you in the right direction. The 130 bus runs every 15 minutes and can cost as little as 3.80 PLN for a single fare. Just make sure you have change! In 20 minutes you will be in town. The buses run until around 11pm so this hotel location is not an issue.  After 11pm a taxi/uber can be had for around 20 PLN.
+Several properties were considered, however only one property could
+provide both meetings rooms and sleeping rooms for the conference.
 
-The hotel staff are very helpful and speak excellent english. 
+BEST WESTERN PREMIER KRAKOW HOTEL<br />
+ul. Opolska 14a<br />
+31-323 Kraków, Poland<br />
+tel. +48 12 376 37 00<br />
+tel. +48 801 08 02 60<br />
+fax +48 12 376 37 01<br />
+http://www.bestwesternkrakow.pl
 
-We are looking for a dates 2nd -5th of August.
+GPS: 50.090900, 19.914500<br />
+N 50°05'27,2''  E 19°54'52,2''
 
-Double/Twin Room - 65 EUR per night
+The hotel is located outside of the city center in a quiet location.
+The hotel is off of a main highway and has good bus connections and
+plenty of parking.  Being out of the city does not create a problem
+and in fact is a plus if you will be doing any sight seeing in the
+area.  There is regular, cheap and reliable bus service only a 10
+minute walk away and the hotel staff will point you in the right
+direction.  See "Getting There" below for more information.
 
-==== Meeting Rooms ====
+The hotel staff is very helpful and speak English, and often several
+other languages.
 
-Meeting Rooms: (Rent includes: flipchart + markers, projector, screen)
-http://www.bestwesternkrakow.pl/en/conferences/
-* Panteon: 400 Theater - 750 EUR/day
-* Monet: 81 Theater / 40 Classroom - 120 EUR/day
-* Canaletto: 54 Theater / 21 Classroom - 120 EUR/day
-* Matejko: 54 Theater / 21 Classroom - 120 EUR/day
-* Chełmoński: 54 Theater / 21 Classroom - 120 EUR/day
-* Malczewski: 54 Theater / 21 Classroom - 120 EUR/day
+== Meeting Rooms ==
 
-==== Food & Beverage ====
+Meeting Rooms: (Rental fee includes: flipchart + markers, projector, screen)
 
-(base prices)
-Coffee break (coffee, tea, cookies, water) : a) single: from 3,75€/pp b) all day: from 6€/pp
+Floor Plan: http://www.bestwesternkrakow.pl/en/conferences/
+
+Suggested Usage:
+* Keynote: Picasso: 200 Theater - 510 EUR/day (also includes sound system)
+* Breakout 1 Track: Monet: 81 Theater / 40 Classroom - 120 EUR/day
+* Breakout 2 Track: Rembrandt: 81 Theater / 40 Classroom - 120 EUR/day
+* Breakout 3: Matejko & Canaletto: 88 Theater / 40 Classroom - 240 EUR/day (2 rooms combined)
+* Breakout 4: Chelmonski & Malczewski: 88 Theater / 40 Classroom - 240 EUR/day (2 rooms combined)
+* Office: Van Gogh: 54 Theater / 21 Classroom - 120 EUR/day (one floor up)
+
+Picasso, Monet, and Rembrandt have ceiling mounted projectors.  All
+rooms have ceiling mounted screens, though a larger (provided)
+screen may be suggested for Picasso.  Rooms have floor power boxes
+throughout and many have additional wall power outlets.  Hotel may
+be able to provide power-bars.
+
+== Food and Beverage ==
+
+Base pricing for Food and Beverage is as follows:
+
+Coffee break (coffee, tea, snacks, water):
+* single: from 3,75€/pp
+* all day: from 6€/pp
+
 Buffet lunches: from 15 €/pp
 
-=== Evening Event Ideas ===
+== Lodging ==
 
-* Browar Lubicz; A one of a kind place for beer lovers in Krakow, Poland - https://www.facebook.com/browarlubiczrestauracja/
+Double/Twin Room - 65 EUR per night including buffet breakfast and
+WiFi
 
-Founded in 1840, and reopened in 2015 after 14 years of silence, this historic brewery has reinvented itself as an upscale brew-pub (coinciding with the completion of the exclusive residences that surround it), replete with a snazzy logo, stylish post-industrial design, door greeters, a full card of local fare, and signature ales brewed on-site. Thoroughly professional, Browar Lubicz exhibits all the traits of the corporate clients it seems to be catering to;
+The hotel also provides guests with access to a swimming pool and
+sauna.  There is also a small workout room (gym) available in the
+partner hotel next door.  The use of these facilities is included
 
-Tasting of 3 draught beers (their very drinkable, lager, dark and wheat beer).
-Their own honey-roasted wheat malt comes as a beer snack and the solid menu offers beer-infused interpretations of local standards like 'maczanka' and 'golanka' and a tasty beer soup. Overall, a lot of care has gone into the rising of this phoenix, and it's a welcome return.
+== Getting There ==
 
-* Guided tour; Main Square or Kazimierz(Jewish district);
+=== Local Bus ===
 
-All attendees will be split in 5 groups among licensed Krakow quide 's  for the inspiring exploration of the city concluded with the shot in Alchemia http://alchemia.com.pl/ ; person representing Krakow guided torus asked to let them know asap as beginning of August should be very buys   
+==== From the City Center ====
 
-If you want to get a real taste of the proper nightlife in Krakow just head to the fabulous district Kazimierz and the great area Plac Nowy. Plac Nowy is teeming with superb ,eclectic pub's,bar's and restaurant's and Alchemia is probably the most famous. 
+From Krakow City Center take bus 130 from the Galeria/Train/Bus
+Station (Stop: Dworzec Glowny Zachod) toward Azory to Rozyckiego
+stop.  A 20 min ticket should suffice.  From the stop walk about
+10 minutes to the hotel (1 turn and cross a road).  The bus runs
+every 10 min from 0900 - 2100 (9am - 9pm).  From 0400 - 0900 (4am
+- 9am) and 2100 - 2400 (9pm - Midnight) the bus runs every half
+hour.
 
-* Krakow underground;
+From 0000 - 0400 (Midnight - 4am) take the night bus, 904, toward
+Wieliczka Kampus, which runs every hour.  Please be aware that the
+night bus departs the city center from the same area, but a different
+location.  The night bus city center departure is called Dworzec
+Glowny.
 
-Possible in 7 groups- entrance of each every half hour; to be considered as this is very cool place
+Tickets (Billet in Polish) can be purchased on the bus from a ticket
+machine (use the door labeled Automat Billetowy), at some bus stops
+at ticket machines, and at some (but not all) Tabaks.  Make sure
+you have change when using a ticket machine!
 
-=== Other Touring Ideas ===
+Getting to the City center is the reverse of the above.  Bus 130
+toward Dworzec Glowny Zachod.  Bus 904 toward Pradnik Bialy.
 
-* The “Wieliczka” Salt Mine is located 10 km from the centre of Krakow. It is located in the vicinity of the E40 route and may be accessed in a few convenient ways. by  train from the Main Railway Station in Krakow (Dworzec Główny) to the Wieliczka Rynek Kopalnia train station.The trains run at set hours every 30 minutes and the journey lasts 22 minutes. The site features health resorts, restaurants and serves as a jumping off point for trips.
+The 904 bus also passes through the Kazimierz (Jewish District) where
+a lot of bars, restaurants and cultural attractions can be found.
+This makes it easy to return to the hotel from this district late
+at night.  Use stop Dietla.
 
-* Zakopane, Poland's premier mountain resort, is one of the country's most popular holiday destinations, both in the winter for skiing and in the summer for hiking and camping.  Bus is by far your best bet for getting up to Zakopane. Two private lines and one PKS all leave from the main bus station (dworzec autobusowy) at regular intervals. If you're going at any civilised time of the day you will probably have to wait no longer than an hour for your next carriage. What's more they are dirt cheap - it will only cost you around 15 zloty for the two-hour trip from Cracow. If you're in a hurry you can even buy your ticket from the driver. That said advance tickets are advised in season, and there may be the odd jam on the roads.
+==== From the Airport ====
 
-* Auschwitz concentration camp was a network of German Nazi concentration camps and extermination camps built and operated by the Third Reich in Polish areas annexed by Nazi Germany.
+Trains depart every 30 minutes for the City Center.  Tickets cost
+8 PLN and should be purchased before boarding.  The train is faster
+and considered more convenient than the bus.
+
+Bus 292 departs every 20 minutes for the City Center.  Tickets cost
+4 PLN and should be purchased before boarding.  Bus 292 and Bus 130
+intersect at the same stop.  Bus 130 will take you to the hotel.
+See above for more information.
+
+After midnight, take night bus 902.
+
+Both the Train and the Bus deposit passengers in the same area.
+Getting to the hotel is easy, just follow the directions above.
+
+=== Taxi and Uber ===
+
+Krakow is served by both a taxi service and uber.  A taxi from the
+City Center to the hotel is about 20 PLN.
+
+A taxi from the Airport to the Hotel is about 75 PLN.
+
+=== By Car, Bus, Train or Plane ===
+
+Use a mapping program, GPS, or travel provider website as needed. :)
+
+== Additional Lodging and Meeting Space ==
+
+Hotel Efekt is a co-owned sister property of the Best
+Western located next door.  Additional sleeping and meeting rooms
+may be available there at similar rates.
+
+= Evening Event Ideas =
+
+==Browar Lubicz==
+
+A one of a kind place for beer lovers in Krakow
+
+https://www.facebook.com/browarlubiczrestauracja/
+
+Founded in 1840, and reopened in 2015 after 14 years of silence,
+this historic brewery has reinvented itself as an upscale brew-pub
+(coinciding with the completion of the exclusive residences that
+surround it), replete with a snazzy logo, stylish post-industrial
+design, door greeters, a full card of local fare, and signature
+ales brewed on-site.
+
+A tasting of 3 draught beers (lager, dark and wheat beer) is on
+offer.  Their own honey-roasted wheat malt comes as a beer snack
+and the menu offers beer-infused interpretations of local standards
+like 'maczanka' and 'golanka' and a beer soup.
+
+== Guided tours: Main Square or Kazimierz (Jewish District) ==
+
+All attendees will be split in 5 groups among licensed Krakow
+guides for an inspiring exploration of the city that ends with a
+shot in [Alchemia](http://alchemia.com.pl/). The  person representing
+Krakow guided tours has asked us to let them know ASAP as the
+beginning of August should be very busy.
+
+== Nightlife in Kazimierz (Jewish District) ==
+
+If you want to get a real taste of the proper nightlife in Krakow
+just head to the fabulous district Kazimierz and the great area
+Plac Nowy. Plac Nowy is teeming with superb, eclectic pubs, bars
+and restaurants.
+
+== Krakow underground ==
+
+Possible in 7 groups.  Entrance is staggered every half hour.
+This should be strongly considered as it is a very cool place
+
+== The “Wieliczka” Salt Mine ==
+
+The Salt Mine is located 10 km from the centre of Krakow. It is
+located in the vicinity of the E40 route and may be accessed in
+a few convenient ways. by  train from the Main Railway Station
+in Krakow (Dworzec Główny) to the Wieliczka Rynek Kopalnia train
+station.The trains run at set hours every 30 minutes and the
+journey lasts 22 minutes and costs around 3 PLN one-way. The site
+features health resorts, restaurants and serves as a jumping off
+point for trips.  Admission to the mine is about 84 PLN for non-Polish
+language tours.  Hours are from 0800 - 1700, check them before you
+go.
+
+Dress appropriately as the mine is cold even in the Summer.  Average
+temperature underground is 15 degrees (59 degrees F).
+
+= Other Touring Ideas =
+
+Considering staying in the area longer?  You may want to add these
+on to your visit.
+
+== Zakopane ==
+
+Zakopane is Poland's premier mountain resort, is one of the
+country's most popular holiday destinations, both in the winter
+for skiing and in the summer for hiking and camping.  Bus is by
+far your best bet for getting up to Zakopane. Two private lines
+and one PKS all leave from the main bus station (dworzec autobusowy)
+at regular intervals. If you're going at any civilised time of
+the day you will probably have to wait no longer than an hour for
+your next carriage. What's more they are dirt cheap - it will
+only cost you around 15 zloty for the two-hour trip from Cracow.
+If you're in a hurry you can even buy your ticket from the driver.
+That said advance tickets are advised in season, and there may
+be the odd jam on the roads.
+
+== Auschwitz ==
+
+Auschwitz concentration camp was a network of German Nazi
+concentration camps and extermination camps built and operated
+by the Third Reich in Polish areas annexed by Nazi Germany.  The
+camp is now a museum and is easily accessible by bus from the main
+station.  The ride is about 1h40min and costs about 12 PLN.
+
+== Communism Tour ==
+
+Private companies offer tours (~140 PLN per person) to Nowa Huta
+to show what life was like under Communism.  Many are done in
+historic cars (Trabant 601) and include guides.  You can also visit
+the Nowa Huta neighborhood by public transportation easily from the
+main station on Tram 4.  The PRL Museum in the Nowa Huta neighborhood
+is highly recommended.
+
+= Staff =
+
+* Brian Exelbierd (bex@pobox.com)
+* Dominika Bula
+
+Interested in helping with the bid? Contact Brian
 
 [[Category:Flock]]
-
